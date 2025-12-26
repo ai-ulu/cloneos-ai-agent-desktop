@@ -1,0 +1,9 @@
+{
+  "name": "CloneOS - AI Agent Desktop",
+  "description": "A sophisticated desktop-style web application to create, train, and interact with your AI Clone using Gemini's advanced multimodal and live audio capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
